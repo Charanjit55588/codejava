@@ -5,6 +5,7 @@ public class Bike extends Parking {
 	Bike(String vehicle) {
 		super(vehicle);
 		// TODO Auto-generated constructor stub
+		//
 	}
 
 	@Override
